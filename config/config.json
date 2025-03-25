@@ -1,0 +1,59 @@
+{
+  "site": {
+    "title": "SpotSync",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/image2vector.svg",
+    "logo_width": "80",
+    "logo_height": "30",
+    "logo_text": "SpotSync"
+
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "Keeping Your Workforce on the Map in Real-Time!",
+    "copyright": "Designed & Developed By Team007"
+  },
+
+  "contact_info": {
+    "phone": "+91 9307277166",
+    "email": "info@spotsync.com",
+    "location": "67th Milestone, NH 48, Kapriwas, Haryana 122413"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Try the App",
+    "link": "https://spotsync.tg-tool.tech/"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Andromeda-light Nextjs Blog Template"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Get SpotSync Now",
+    "content": "Simplify employee tracking with SpotSync's advanced geolocation attendance system. </br> Stay on top of your team's progress with real-time updates and seamless task management. </br> Boost efficiency, improve accountability, and eliminate manual processes with just one app.",
+    "button": {
+      "label": "Try the App now!",
+      "link": "https://spotsync.tg-tool.tech/"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
